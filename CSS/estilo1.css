@@ -1,0 +1,16 @@
+*{
+    padding: 11px;
+    margin: 11px;
+}
+
+body {
+    background-color: darkslategrey;
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+
